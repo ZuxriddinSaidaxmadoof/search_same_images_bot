@@ -3,7 +3,6 @@ const { getJson } = require("serpapi");
 const GOOGLE_API_KEY = "5a81319dea3b7654e276f45f1d7a86febbfd67c7384414db3cdbbf8fda33cca1";
 const BOT_TOKEN = "6941832197:AAGHHf1I5QVHGKXsRXmMGbb_8db825jj2oM";
 const {Telegraf, Markup} = require("telegraf")
-// const {pagination} = require("./pagination.js")
 
 const app = new Telegraf(BOT_TOKEN)
 
