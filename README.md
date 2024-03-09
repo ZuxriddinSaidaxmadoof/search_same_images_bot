@@ -16,13 +16,13 @@ Your Telegram bot is ready to use 🎉
 ## Here you can see some images from the bot 👇
 
 ### When you start chat with the bot
-<img src="https://github.com/ZuxriddinSaidaxmadoof/search_same_images_bot/blob/main/source/bot1png.png"></img
+<img src="https://github.com/ZuxriddinSaidaxmadoof/search_same_images_bot/blob/main/source/bot1png.png">
 
 ### When you send and photo
-<img src="https://github.com/ZuxriddinSaidaxmadoof/search_same_images_bot/blob/main/source/bot2.png"></img
+<img src="https://github.com/ZuxriddinSaidaxmadoof/search_same_images_bot/blob/main/source/bot2.png">
 
 ### When you click the next 👉 or 👈prev button the picture sent by the bot will disappear and a new one will come
-<img src="https://github.com/ZuxriddinSaidaxmadoof/search_same_images_bot/blob/main/source/bot3.png"></img
+<img src="https://github.com/ZuxriddinSaidaxmadoof/search_same_images_bot/blob/main/source/bot3.png">
 
 ### When you click the source 🔗 button the bot send you link about last picture
 <img src="https://github.com/ZuxriddinSaidaxmadoof/search_same_images_bot/blob/main/source/bot4.png"></img
